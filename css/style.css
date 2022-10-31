@@ -431,7 +431,7 @@ img {
     04. Banner CSS Start
 ----------------------------------*/
 .main-banner {
-    background: url(../images/speaker/O2P.jpg);
+    background: url(../images/speaker/moh.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -651,7 +651,7 @@ img {
     padding: 90px 0 60px;
     position: relative; 
     background: #f4f4f4;
-    background: url(../images/bg/2.jpg);
+    background: url(../images/bg/moh2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

@@ -431,12 +431,13 @@ img {
     04. Banner CSS Start
 ----------------------------------*/
 .main-banner {
-    background: url(../images/speaker/moh.jpg);
+    background: url(../images/speaker/mohc.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     width: 100%;
     position: relative;
+  
 }
 .main-banner:before {
     content: "";
